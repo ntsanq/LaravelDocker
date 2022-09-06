@@ -42,6 +42,6 @@ $ docker ps
 To execute a container:
 
 ```ssh
-$ docker exec -it homeworkmanagement-nginx-1 bash
+$ docker exec -it <container> bash
 $ docker exec -it <container> <command>
 ```
